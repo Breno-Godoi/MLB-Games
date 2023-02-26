@@ -1,0 +1,27 @@
+.img-fluid {
+    width: 90%;
+    max-height: 250px;
+}
+
+.dropdown {
+    margin: 10px;
+}
+
+
+.select {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.forms {
+    padding: 5%;
+}
+
+.buttons {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#saveBtn {
+    margin-left: 20%;
+}
